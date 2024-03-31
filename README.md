@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @shreehari2325
-- 👀 I’m interested in cybersecurity and ethical hacking
+- 👀 I’m interested in cybersecurity and ethical hacking.
 - 🌱 I’m currently learning CSE.
 - ⚡ Fun fact: The Earth is round.
 
